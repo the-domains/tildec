@@ -2,6 +2,7 @@ name: tildec
 favicon: null
 layout_spectrum: 0.25086
 typography_spectrum: 0.32295
+title: Random Ramblings
 cta:
   domain: null
   bucket: null
