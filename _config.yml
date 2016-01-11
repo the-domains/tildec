@@ -1,0 +1,28 @@
+name: tildec
+favicon: null
+layout_spectrum: 0.8923205512110144
+typography_spectrum: 0.5827416328247637
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5317359636537731
+  lightness: 0.33726868289522827
+  saturation: 0.9918809228111058
+  rhythmicContrast: 0.48092353250831366
+purpose: []
