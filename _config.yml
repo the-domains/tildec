@@ -1,7 +1,7 @@
 name: tildec
 favicon: null
-layout_spectrum: 0.8923205512110144
-typography_spectrum: 0.5827416328247637
+layout_spectrum: 0.25086
+typography_spectrum: 0.32295
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.5317359636537731
-  lightness: 0.33726868289522827
-  saturation: 0.9918809228111058
-  rhythmicContrast: 0.48092353250831366
+    - '#01040d'
+    - '#0050c1'
+    - '#91b8d7'
+    - '#6d607b'
+    - '#e5bc62'
+  brandStrength: 0.375
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0.75
 purpose: []
